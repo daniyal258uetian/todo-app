@@ -16,7 +16,7 @@ const App = () => {
           <WeatherInfo />
           <div className="card-body">
             <h2 className="card-title text-center mb-4 text-primary border-bottom pb-2">
-              📝 Todo App
+              📝 Todo App version 2
             </h2>
             <ToastContainer />
             <TodoInput />
